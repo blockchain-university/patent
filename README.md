@@ -57,4 +57,59 @@ Patent
 	- 状态：审中-公开
 	- 摘要：本发明公开了一种智行包，包括随行包、电源、智能传感器、网络层、微处理器、人机交互装置和应用层。智行包将导航定位、区块链、电子传感、数据网络、人工智能、分布式计算、自动控制、机器识别、移动计算、人机交互等一系列的技术合理有效的集成，嵌入到一个随身终端中，帮助改善人们的出行体验。智行包用户作为无线自组网中对等网络系统的管理者、监督者、使用者，自部署，自维护，自学习，自生产，从而构建一个去中心化的、自生长的出行数据库。可望成为智能城市交通系统的物联网终端件。
 
+* [申请号：CN 201510262578] - 矿池中挖虚拟数字币的方法和装置
+	- Publication number	CN104915249 A
+	- Publication type	Application
+	- Application number	CN 201510262578
+	- Publication date	Sep 16, 2015
+	- Filing date	May 21, 2015
+	- Priority date	May 21, 2015
+	- Inventors	詹克团
+	- Applicant	北京比特大陆科技有限公司
+	- 摘要：本发明公开一种矿池中挖虚拟数字币的方法和装置，涉及计算机社交网络技术领域，其中所述矿池中挖虚拟数字币的方法包括：为矿机分配挖矿任务；矿机执行挖矿任务，挖到区块的Hash难度大于当前网络难度时，矿池将该区块的信息在虚拟数字币交易网络进行广播；在虚拟数字币交易网络得到预设数量确认数时，给出回馈信息。本发明提供的矿池中挖虚拟数字币的方法，有效提高工作效率的同时满足更多用户的需求。
 
+* [CN 201410609085] - 一种数据保护方法
+	- Publication number	CN104463009 A
+	- Publication type	Application
+	- Application number	CN 201410609085
+	- Publication date	Mar 25, 2015
+	- Filing date	Nov 3, 2014
+	- Priority date	Nov 3, 2014
+	- Inventors	詹克团
+	- Applicant	北京比特大陆科技有限公司
+	- 本发明公开了一种数据保护方法，此方法包括：执行N次加密操作，第i次加密操作包括使用第i加密密钥EKi通过第i算法对明文P进行加密后得到第i密文Ci；执行N次存储过程，第i次存储过程包括：确定与第i加密密钥EKi对应的第i解密密钥DKi，将第i个解密密钥DKi和除第i密文Ci之外且未存储过的密文存储于第i存储位置；从N个存储位置中选择M个存储位置，使用M个存储位置的一存储位置中的解密密钥以及加密过程中使用的各算法对除此存储位置之外的其它存储位置中的密文进行解密直至解密成功。本发明以增加加密过程的运算量以及提高存储方式的复杂程度的代价获取了数据安全性提高的效果。
+
+* [] - Method to securely establish, affirm, and transfer ownership of artworks
+	- Publication number	WO2015024129 A1
+	- Publication type	Application
+	- Application number	PCT/CA2014/050805
+	- Publication date	Feb 26, 2015
+	- Filing date	Aug 21, 2014
+	- Priority date	Aug 21, 2013
+	- Inventors	Trent Lorne Mcconaghy, Maria MCCONAGHY
+	- Applicant	Trent Lorne Mcconaghy, Mcconaghy Maria
+	- A method for establishing, confirming, and transferring ownership of digital artworks. The method associates a given artwork to a unique public ID and to an online service. The owner of the artwork is the person who has full access to the online service at the public ID. Confirming ownership of the artwork includes the owner performing an action that demonstrates the owner has full access to the online service at the public ID. Transferring ownership of the artwork includes ( 1 ) transferring access to the account itself, or (2) using the online service's transfer protocol, which may also update the public ID associated with the owner of the artwork.
+
+
+*	[CN 201410619756] - 基于加密数字货币公开账本技术的用户公钥地址绑定、检索和校验的方法及系统
+	- Publication number	CN104320262 A
+	- Publication type	Application
+	- Application number	CN 201410619756
+	- Publication date	Jan 28, 2015
+	- Filing date	Nov 5, 2014
+	- Priority date	Nov 5, 2014
+	- Inventors	李晓风, 赵赫, 李芳 , 谭海波
+	- Applicant	中国科学院合肥物质科学研究院
+	- 本发明公开了基于加密数字货币公开账本技术的用户公钥地址绑定、检索和校验的方法及系统，其特征是按如下步骤进行：1向所述加密数字货币网络中的用户公布验证公钥地址；2接收用户的注册账号请求，并接收其公钥地址；3利用与所述验证公钥地址对应的私钥地址向所述已注册用户的加密数字货币的公钥地址发送数量大于等于零的加密数字货币作为验证交易，设置验证交易的附加信息或脚本内容中包含用户的账号名；4接收来自所述加密数字货币网络中其他用户的查询请求，根据所述查询请求反馈所述已注册用户的公钥地址。本发明能大幅提升加密数字货币交易的可用性、便利性、安全性和可靠性，避免用户因公钥地址被他人篡改、冒充导致的经济损失。
+
+* [Distributed crypto currency reputation system]
+	- Publication number	US20150302400 A1
+	- Publication type	Application
+	- Application number	US 14/256,844
+	- Publication date	Oct 22, 2015
+	- Filing date	Apr 18, 2014
+	- Priority date	Apr 18, 2014
+	- Also published as	WO2015161128A1
+	- Inventors	Max Edward Metral
+	- Original Assignee	Ebay Inc.
+	- Distributed crypto currency reputation systems and methods include monitoring a crypto currency public ledger. A current crypto currency transaction is detected in the crypto currency public ledger and, in response, reputation markers may be allocated to both a payer and a payee that are involved in the current crypto currency transaction. At least some of the reputation markers are then determined to have been transferred from the payer to the payee and from the payee to the payer. When a request for reputation information for the payee or the payer is received, information associated with the transfer of the at least some of the reputation markers from the payer to the payee or from the payee to the payer may then be provided.
